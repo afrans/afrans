@@ -6,8 +6,11 @@
 #### 🧠 Backend  
 - Node.js • Python • Java • Redis • MySql • MongoDB 
 
-#### ⚙️ DevOps & Ferramentas 🧪 Testes 
-- Docker • Git • Postman • VS Code • Playwright 
+#### ⚙️ DevOps & Ferramentas
+- Docker • Git • Postman • VS Code 
+
+#### 🧪 Testes 
+- Playwright 
 
 #### ⚙️ Trabalho em equipe
 - **Agile/Scrum**
