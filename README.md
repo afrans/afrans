@@ -1,14 +1,13 @@
 🎯 **Full Stack Developer** com foco em **Angular**, **Python**.  
 
----
-
-### 🚀 Tecnologias e Ferramentas  
-
 #### 💻 Frontend  
-- Angular • TypeScript • RxJS • NgRx • HTML5 • SCSS • Java • JSF • Primefaces • React
+- Angular • Java • JSF • Primefaces • React
 
 #### 🧠 Backend  
-- Node.js • NestJS • MongoDB • REST APIs • Python • Pandas • Numpy • Java • Spring boot • Linux • Redis • MySql
+- Node.js • Python • Java • Redis • MySql • MongoDB 
 
-#### ⚙️ DevOps & Ferramentas 🧪 Testes ⚙️ Trabalho em equipe
-- Docker • Git • Postman • VS Code • Playwright • **Agile/Scrum**
+#### ⚙️ DevOps & Ferramentas 🧪 Testes 
+- Docker • Git • Postman • VS Code • Playwright 
+
+#### ⚙️ Trabalho em equipe
+- **Agile/Scrum**
