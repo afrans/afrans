@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou o Anderson Frans Vieira Lemes  
-
 🎯 **Full Stack Developer** com foco em **Angular**, **Node.js**, **NestJS** e **MongoDB**.  
-Apaixonado por transformar ideias em soluções reais, eficientes e escaláveis — unindo frontend e backend com boas práticas e automação.
 
 ---
 
@@ -46,20 +43,5 @@ Apaixonado por transformar ideias em soluções reais, eficientes e escaláveis 
 
 - ⚙️ Trabalhei no **Inatel** com **Agile/Scrum** em sprints quinzenais  
 
----
-
-## 📫 Como me encontrar  
-
-[![LinkedIn](https://www.linkedin.com/in/afrans)  
-📧 **andersonfrans@gmail.com**
-
----
-
-## ✨ Estatísticas do GitHub  
-
-![Anderson Frans GitHub Stats](https://github-readme-stats.vercel.app/api?username=andersonfrans&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonfrans&layout=compact&theme=tokyonight)
-
----
 
 > — Anderson F. Vieira Lemes  
